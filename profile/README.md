@@ -11,7 +11,7 @@ paying particular attention to the feedback on the surroundings that quenches or
 
 Estallidos is organized and coordinated through  workshops in which ongoing work is discussed and new results are presented. They are attended by a significant part of the Estallidos community (currently around 60 people) and help to maintain strong scientific bounds and close collaborations.  
 
-**[Workshops](https://research.iac.es/proyecto/estallidos2/pages/workshops.php)**  |  **[Publications](https://research.iac.es/proyecto/estallidos2/pages/publicaciones.php)**  |  **[Nodes info](https://research.iac.es/proyecto/estallidos2/pages/acerca-de-y-contacto.php)**
+**[Workshops](https://research.iac.es/proyecto/estallidos2/pages/workshops.php)**  |  **[Publications](https://research.iac.es/proyecto/estallidos2/pages/publicaciones.php)**  |  **[Nodes info](https://research.iac.es/proyecto/estallidos2/pages/acerca-de-y-contacto.php)**  |  **[Current researchers](https://research.iac.es/proyecto/estallidos2/pages/estallidos8/acronyms.php)**
 
 ![estallidos_science_logos](https://github.com/Estallidos/.github/blob/main/assets/science_logos.png)
 ## Funded by
